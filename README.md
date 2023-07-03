@@ -6,6 +6,8 @@ Check out [this gist](https://gist.github.com/axel-op/deff66ac2f28a01813193d90de
 
 ## Usage
 
+test
+
 ### Logging
 
 Logging commands are available under `log`.
